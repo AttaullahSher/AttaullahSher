@@ -49,6 +49,7 @@
 
 <table>
 <tr><td><b>AKM Music Centre</b></td><td>End-to-end digital transformation of a 40-year-old Abu Dhabi music retailer. Six applications: public storefront, POS, CRM, document/invoicing system, inventory, and a payments &amp; automation edge worker.</td></tr>
+<tr><td><a href="https://github.com/AttaullahSher/Ashgrab">Ashgrab</a></td><td>Universal video downloader — paste any link (YouTube, Instagram, TikTok, Facebook, X, Reddit…), preview, download. Zero-dependency static PWA on GitHub Pages with a self-healing server-racing fallback engine and a weekly self-updating backend list. <a href="https://attaullahsher.github.io/Ashgrab/">Live ↗</a></td></tr>
 <tr><td><a href="https://github.com/AttaullahSher/Hkula">Hkula</a></td><td>Business website</td></tr>
 <tr><td><a href="https://github.com/AttaullahSher/the-anfal">the-anfal</a></td><td>The Anfal General Trading LLC</td></tr>
 <tr><td><a href="https://github.com/AttaullahSher/Anfal2.0">Anfal2.0</a></td><td>Stock clearance platform</td></tr>
